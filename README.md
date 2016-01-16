@@ -1,6 +1,6 @@
 ![Software Craftsmanship banner](img/banner.png)
 
-![Software Craftsmanship banner](img/built-with-love.svg)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 The idea behind the Software Craftsmanship newsletter is to inspire developers.
  
