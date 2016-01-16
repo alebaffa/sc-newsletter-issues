@@ -13,6 +13,7 @@ This newsletter is open to contribution from everyone. Even if you don't find so
 * **Pull requests:**
 	* please do a pull requests against the file named _newsletter-x-open.md_. There will always be only one file named _open_.
 	* The issues that have already been published are named _newsletter-x-published.md_
+* **Categories**. 
 * **Comment and vote**. Everyone is free to comment on the pull requests so that everyone can participate to the choice of the material to be sent in every issue. 
 
 Thank you! :blush:
