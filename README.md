@@ -4,7 +4,7 @@
 
 The idea behind the [Software Craftsmanship newsletter](https://scnewsletter.firebaseapp.com/) is to inspire developers.
  
-It is not an official newsletter of the movement whatsoever, but it's just my personal way to give back to this amazing community of people passionate about software.
+It is not an official newsletter of the [Software Craftsmanship movement](http://manifesto.softwarecraftsmanship.org/) whatsoever, but it's just my personal way to give back to this amazing community of people passionate about software.
 
 This newsletter is open to contribution from everyone. Even if you don't find something to share, you can still leave your feedback on what other people have found. 
 
