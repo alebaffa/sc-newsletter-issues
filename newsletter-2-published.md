@@ -1,4 +1,5 @@
 # Newsletter 2
+[Published](http://eepurl.com/bGYw91) on Thu, Nov 26, 2015. 
 ### Articles
 * [Quality vs Shipping](http://www.davesquared.net/2010/08/quality-vs-shipping.html), 
 David Tchepak, software developer.

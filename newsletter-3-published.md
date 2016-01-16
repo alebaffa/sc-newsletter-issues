@@ -1,4 +1,5 @@
 # Newsletter 3
+[Published](http://eepurl.com/bHHpFb) on Fri, Dec 04, 2015. 
 ### Articles
 * [Ask HN: Company is growing and the culture shift is uncomfortable. What do I do?](https://news.ycombinator.com/item?id=10634732),
 Interesting discussion on Hacker News

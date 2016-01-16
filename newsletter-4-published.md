@@ -1,4 +1,5 @@
 # Newsletter 4
+[Published](http://eepurl.com/bJZXG1) on Wed, Dec 16, 2015. 
 ### Articles
 * [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.my32u0u18),
 Kent C. Dodds, software engineer at Alianza, Inc.

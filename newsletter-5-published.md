@@ -1,4 +1,5 @@
 # Newsletter 1
+[Published](http://eepurl.com/bMBdtT) on Tue, Jan 12, 2016. 
 ### Articles
 * [I'm Sorry, But Agile Won't Fix Your Products](http://firstround.com/review/im-sorry-but-agile-wont-fix-your-products/),
 First Round blog

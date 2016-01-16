@@ -1,4 +1,5 @@
 # Newsletter 1
+[Published](http://eepurl.com/bGQmoT) on Fri, Nov 20, 2015. 
 ### Articles
 * [The Coderetreat Problem Is Not The Problem](http://www.alexbolboaca.ro/wordpress/my-take-on/the-coderetreat-problem-is-not-the-problem), 
 Written by Alexandru Bolboaca, Agile and Technical Coach and Trainer at Mozaic Works.

@@ -2,7 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-The idea behind the Software Craftsmanship newsletter is to inspire developers.
+The idea behind the [Software Craftsmanship newsletter](https://scnewsletter.firebaseapp.com/) is to inspire developers.
  
 It is not an official newsletter of the movement whatsoever, but it's just my personal way to give back to this amazing community of people passionate about software.
 
