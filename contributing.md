@@ -2,7 +2,7 @@
 
 **Technology agnostic**. Everything that you think is inspiring for you as a developer will surely inspire other people as well. Specific technologies have their own newsletter already. But still, it's up to you to decide whether or not the article deserves to be shared anyway :open_hands:.
 
-Please open an issue and provide the following information:
+In order to contribute with your links, please open an issue and provide the following information:
 
 * The link to the content
 * A brief description
