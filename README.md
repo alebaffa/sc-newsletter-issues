@@ -6,12 +6,12 @@ The idea behind the [Software Craftsmanship newsletter](https://scnewsletter.fir
  
 It is not an official newsletter of the [Software Craftsmanship movement](http://manifesto.softwarecraftsmanship.org/) whatsoever, but it's just my personal way to give back to this amazing community of people passionate about software.
 
-This newsletter is open to contribution from everyone. Even if you don't find something to share, you can still leave your feedback on what other people have found. 
+This newsletter is open to contribution from everyone. Even if you don't find something to share, you can still leave your feedback on what other people [have found](https://github.com/alebaffa/sc-newsletter-issues/issues). 
 
 ## Contribution guide
 Please read the [guide](contributing.md).
 
-Thank you! :blush:
+..and thank you! :blush:
 
 # Licence
 
