@@ -1,4 +1,6 @@
 #/usr/bin/env ruby
+#
+require 'uri'
 
 def check_lines (url)
 	Dir.foreach(".") do |file_name|
