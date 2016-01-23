@@ -1,6 +1,6 @@
 #/usr/bin/env ruby
 
-def check_lines(url)
+def check_lines (url)
 	Dir.foreach(".") do |file_name|
 	  if /-published/.match(file_name)
 		File.open(file_name) do |f|
