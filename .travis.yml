@@ -1,0 +1,3 @@
+before_script:
+ - chmod +x .build.rb
+script: .build.rb
