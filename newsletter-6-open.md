@@ -8,8 +8,7 @@ Open for contributions.
 * [Being a deaf developer](http://cruft.io/posts/deep-accessibility/)
 * [Slash Slash Massive Hack](http://monospacedmonologues.com/post/137738860257/slash-slash-massive-hack)
 * [Recovering a broken test suite](http://techbeatscorner.blogspot.de/2015/09/recovering-broken-test-suite.html)
-* [How to Set Up Your Company's Apprenticeship](https://robots.thoughtbot.com/how-to-set-up-your-companys-apprenticeship),
-Written by Dan Croak, Chief Marketing Officer at ThoughtBot, and Chad Pytel, Developer, Co-founder and CEO of ThoughtBot
+
 ---
 
 ### Videos
