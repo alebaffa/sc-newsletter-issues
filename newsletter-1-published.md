@@ -1,23 +1,23 @@
 # Newsletter 1
 [Published](http://eepurl.com/bGQmoT) on Fri, Nov 20, 2015. 
 ### Articles
-* [The Coderetreat Problem Is Not The Problem](http://www.alexbolboaca.ro/wordpress/my-take-on/the-coderetreat-problem-is-not-the-problem), 
+* [The Coderetreat Problem Is Not The Problem](http://www.alexbolboaca.ro/wordpress/my-take-on/the-coderetreat-problem-is-not-the-problem)
 Written by Alexandru Bolboaca, Agile and Technical Coach and Trainer at Mozaic Works.
 * [Engineering Principles](https://medium.com/@treystout/engineering-principles-c58f5f8c264b)
 Written by Trey Stout, CTO at Gracious Eloise Inc.
-* [Building a Culture of Learning in Development Teams](https://medium.com/make-better-software/building-a-culture-of-learning-in-development-teams-afc5ba6ff223#.a2raw0vto),
+* [Building a Culture of Learning in Development Teams](https://medium.com/make-better-software/building-a-culture-of-learning-in-development-teams-afc5ba6ff223#.a2raw0vto)
 Written by Fog Creek Software.
 * [The Programmer's Oath](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html),
 Written by Robert C. Martin ... well, you know him :)
-* [Exploring the open development method](https://opensource.com/business/15/11/open-development-method), 
+* [Exploring the open development method](https://opensource.com/business/15/11/open-development-method)
 Written by Ahmad Nassri, Head of Engineering at Mashape.
 * [Refactoring Module Dependencies](http://martinfowler.com/articles/refactoring-dependencies.html),
 Written by Martin Fowler .. you should know him.
-* [How much technology does a software architect need to understand?](https://jaxenter.com/how-much-technology-does-a-software-architect-need-to-understand-120964.html), Written by Coman Hamilton, Editor at JAXenter.com.
+* [How much technology does a software architect need to understand?](https://jaxenter.com/how-much-technology-does-a-software-architect-need-to-understand-120964.html), Written by Coman Hamilton, Editor at JAXenter.com
 * [The Right Way to Scale Agile: Scaling Value Delivery over Process](http://www.infoq.com/articles/agile-scaling-value-delivery?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global),
-Written by Suzie Prince, Head of Product for ThoughtWorks Studios.
+Written by Suzie Prince, Head of Product for ThoughtWorks Studios
 * [How to Set Up Your Company's Apprenticeship](https://robots.thoughtbot.com/how-to-set-up-your-companys-apprenticeship),
-Written by Dan Croak, Chief Marketing Officer at ThoughtBot, and Chad Pytel, Developer, Co-founder and CEO of ThoughtBot.
+Written by Dan Croak, Chief Marketing Officer at ThoughtBot, and Chad Pytel, Developer, Co-founder and CEO of ThoughtBot
 
 ---
 
