@@ -2,7 +2,7 @@
 
 require 'uri'
 
-def check_lines (url)
+def check_link_in_old_newsletter (url)
   Dir.foreach(".") do |file_name|
     if /-published/.match(file_name)
       File.open(file_name) do |f|
@@ -24,9 +24,9 @@ def check_links_in_open_newsletter
     File.open(file_open) do |f|
       f.each_line do |line|
         if line.start_with?("*")
-          url = URI.extract(line, ['http', 'https'])
-          url.each do |matches|
-            check_lines(matches)
+          all_url = URI.extract(line, ['http', 'https'])
+          all_url.each do |url|
+            check_link_in_old_newsletter(url)
           end
         end
       end
