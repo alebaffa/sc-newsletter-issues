@@ -1,5 +1,7 @@
 ![Software Craftsmanship banner](img/banner.png)
 
+[![Build Status](https://travis-ci.org/alebaffa/sc-newsletter-issues.svg?branch=master)](https://travis-ci.org/alebaffa/sc-newsletter-issues)
+
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 The idea behind the [Software Craftsmanship newsletter](https://scnewsletter.firebaseapp.com/) is to inspire developers.
