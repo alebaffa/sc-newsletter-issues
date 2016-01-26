@@ -8,6 +8,7 @@ Open for contributions.
 * [Being a deaf developer](http://cruft.io/posts/deep-accessibility/)
 * [Slash Slash Massive Hack](http://monospacedmonologues.com/post/137738860257/slash-slash-massive-hack)
 * [Recovering a broken test suite](http://techbeatscorner.blogspot.de/2015/09/recovering-broken-test-suite.html)
+* [Feature Toggles](http://martinfowler.com/articles/feature-toggles.html)
 
 ---
 
@@ -16,11 +17,5 @@ Open for contributions.
 * [Question the software design - Part II - TDD and software architecture](https://www.youtube.com/watch?v=2U8o-1TQJ_M)
 * [Question the software design - Part III - Design in practice and working with teams](https://www.youtube.com/watch?v=B3eET_mgoKA)
 * [RailsConf 2015 - Sometimes a Controller is Just a Controller](https://www.youtube.com/watch?v=MSgR-hJjdTo)
-
----
-
-### Podcasts
-
----
-
-### Events
+* [Move Slow and Fix Things](http://www.thedotpost.com/2015/12/daniel-eden-move-slow-and-fix-things)
+* [Writing easy to maintain code](https://www.youtube.com/watch?v=vyazVasLpds)
