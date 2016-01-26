@@ -1,5 +1,5 @@
 # Newsletter 6
-Open for contributions.
+[Published](http://eepurl.com/bNTGJ5) on Tue, Jan 26, 2016 .
 ### Articles
 * [The Best Leaders Are Pattern thinkers](http://www.game-changer.net/2014/08/27/the-best-leaders-are-pattern-thinkers/)
 * [Re-Inventing Testing: What is Integration Testing? (Part 1)](http://www.satisfice.com/blog/archives/1570)
