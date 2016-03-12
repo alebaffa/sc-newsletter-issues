@@ -35,4 +35,3 @@ def check_links_in_open_newsletter
 end
 
 check_links_in_open_newsletter
-
