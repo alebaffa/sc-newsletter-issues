@@ -5,6 +5,7 @@
 **How to contribute**
 
 1. Create a pull request on the latest _newsletter-x-open.md_ file adding your links. Travis will check if your link is a duplicate. Please, explain the reason why you think this article is worth sharing. Be as much explanatory as you can so that it can be used as _abstract_ when the article will be published in the issue.
+2. Share your articles on Twitter using the hashtag [#softwarecraftsmanship](https://twitter.com/search?q=%23softwarecraftsmanship)
 
 You are free to react and comment on all the pull requests to give your opinion.
 
