@@ -8,8 +8,8 @@ It is not an official newsletter of the [Software Craftsmanship movement](http:/
 
 This newsletter is open to contribution from everyone. Even if you don't find something to share, you can still leave your feedback on what other people [have found](https://github.com/alebaffa/sc-newsletter-issues/pulls). 
 
-## Contribution guide
-Please read the [guide](contributing.md).
+## Contribution guideline
+Please read the [guideline](contributing.md).
 
 ..and thank you! :blush:
 
