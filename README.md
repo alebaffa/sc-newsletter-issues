@@ -2,10 +2,6 @@
   <img src="img/banner.png" />
 </p>
 
-[![Build Status](https://travis-ci.org/alebaffa/sc-newsletter-issues.svg?branch=master)](https://travis-ci.org/alebaffa/sc-newsletter-issues)
-
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
-
 The idea behind the [Software Craftsmanship newsletter](https://scnewsletter.firebaseapp.com/) is to inspire developers.
  
 It is not an official newsletter of the [Software Craftsmanship movement](http://manifesto.softwarecraftsmanship.org/) whatsoever, but it's just my personal way to give back to this amazing community of people passionate about software.
@@ -25,4 +21,8 @@ Please read the [guide](contributing.md).
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
 </p>
+
+[![Build Status](https://travis-ci.org/alebaffa/sc-newsletter-issues.svg?branch=master)](https://travis-ci.org/alebaffa/sc-newsletter-issues)
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
