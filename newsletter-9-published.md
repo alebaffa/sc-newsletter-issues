@@ -1,5 +1,5 @@
 # Newsletter 9
-[Open]
+[Published](http://eepurl.com/bVHGzD) on Tue, Mar 29, 2016 .
 ### breaking-the-internet
 
 [A discussion about the breaking of the Internet](https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d#.k5rvogt1q)
