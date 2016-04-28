@@ -1,4 +1,6 @@
-![Software Craftsmanship banner](img/banner.png)
+<p align="center">
+  <img src="img/banner.png" />
+</p>
 
 [![Build Status](https://travis-ci.org/alebaffa/sc-newsletter-issues.svg?branch=master)](https://travis-ci.org/alebaffa/sc-newsletter-issues)
 
