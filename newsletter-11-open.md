@@ -4,4 +4,6 @@
 
 [How to test time and control System.currentTimeMillis](http://blog.blundellapps.co.uk/how-to-test-time-and-control-system-currenttimemillis/)
 
+[Recovering from the Wrong Abstraction](http://us3.campaign-archive1.com/?u=1090565ccff48ac602d0a84b4&id=92902a19e4)
+
 [The Tyranny of DRY.](http://us3.campaign-archive2.com/?u=1090565ccff48ac602d0a84b4&id=5132867f6e)
