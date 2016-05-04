@@ -16,3 +16,6 @@
 ### videos
 
 [SOLID Deconstruction](https://vimeo.com/157708450?ref=tw-share)
+
+[RailsConf 2015 - Nothing is Something](https://www.youtube.com/watch?v=29MAL8pJImQ)
+
