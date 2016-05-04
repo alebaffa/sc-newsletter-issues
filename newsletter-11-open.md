@@ -13,9 +13,10 @@
 
 [The Core 6 Refactorings](http://arlobelshee.com/the-core-6-refactorings/)
 
+[The Case For Software Craftsmanship](http://theredpandas.com/index.php/2016/05/04/the-case-for-software-craftsmanship/)
+
 ### videos
 
 [SOLID Deconstruction](https://vimeo.com/157708450?ref=tw-share)
 
 [RailsConf 2015 - Nothing is Something](https://www.youtube.com/watch?v=29MAL8pJImQ)
-
