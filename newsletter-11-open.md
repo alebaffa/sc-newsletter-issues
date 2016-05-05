@@ -15,8 +15,6 @@
 
 * [The Case For Software Craftsmanship](http://theredpandas.com/index.php/2016/05/04/the-case-for-software-craftsmanship/)
 
-* [test title](http://www.daedtech.com/bringing-objectivity-clean-code/)
-
 * [Isolate-Improve-Inline: The 3-I Refactoring Tactic](https://www.industriallogic.com/blog/isolate-improve-inline-refactoring-tactic/)
 
 ### videos
