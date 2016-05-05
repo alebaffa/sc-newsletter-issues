@@ -17,6 +17,8 @@
 
 * [test title](http://www.daedtech.com/bringing-objectivity-clean-code/)
 
+* [Isolate-Improve-Inline: The 3-I Refactoring Tactic](https://www.industriallogic.com/blog/isolate-improve-inline-refactoring-tactic/)
+
 ### videos
 
 * [SOLID Deconstruction](https://vimeo.com/157708450?ref=tw-share)
