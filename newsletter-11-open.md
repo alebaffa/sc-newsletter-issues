@@ -15,6 +15,8 @@
 
 [The Case For Software Craftsmanship](http://theredpandas.com/index.php/2016/05/04/the-case-for-software-craftsmanship/)
 
+[test title](http://www.daedtech.com/bringing-objectivity-clean-code/)
+
 ### videos
 
 [SOLID Deconstruction](https://vimeo.com/157708450?ref=tw-share)
