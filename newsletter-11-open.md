@@ -17,7 +17,7 @@
 
 * [Isolate-Improve-Inline: The 3-I Refactoring Tactic](https://www.industriallogic.com/blog/isolate-improve-inline-refactoring-tactic/)
 
-[Pair Programming Is Still Vibrant](http://cacm.acm.org/news/201181-pair-programming-is-still-vibrant/fulltext)
+* [Pair Programming Is Still Vibrant](http://cacm.acm.org/news/201181-pair-programming-is-still-vibrant/fulltext)
 
 ### videos
 
