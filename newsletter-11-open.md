@@ -28,3 +28,5 @@
 * [Craft Conference 2016 - all videos](http://www.ustream.tv/craft)
 
 * [Why agile doesn't scale - Jez Humble - GOTO Conference 2015](https://www.youtube.com/watch?v=2zYxWEZ0gYg)
+
+* [BDD is like Jazz](https://skillsmatter.com/skillscasts/7361-keynote-kind-of-green#video)
