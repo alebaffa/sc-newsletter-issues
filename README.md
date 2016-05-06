@@ -22,7 +22,7 @@ Please read the [guideline](contributing.md).
   </a>
 </p>
 
-[![Build Status](https://travis-ci.org/alebaffa/sc-newsletter-issues.svg?branch=master)](https://travis-ci.org/alebaffa/sc-newsletter-issues)
+[![Build Status](https://travis-ci.org/sccommunity/sc-newsletter-issues.svg?branch=master)](https://travis-ci.org/alebaffa/sc-newsletter-issues)
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 

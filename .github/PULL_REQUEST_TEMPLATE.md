@@ -1,5 +1,1 @@
-**Title** : Write here the title of the article.
-
-**Link** : Put here the link.
-
-**Description** : Write here the reason why you think this article is worth sharing.
+**Abstract** : Write here the reason why you think this article is worth sharing. This abstract can be published in the newsletter issue.
