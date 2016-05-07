@@ -19,10 +19,12 @@
 
 * [Pair Programming Is Still Vibrant](http://cacm.acm.org/news/201181-pair-programming-is-still-vibrant/fulltext)
 
-### videos
+### videos and podcasts
 
 * [SOLID Deconstruction](https://vimeo.com/157708450?ref=tw-share)
 
 * [RailsConf 2015 - Nothing is Something](https://www.youtube.com/watch?v=29MAL8pJImQ)
 
 * [Craft Conference 2016 - all videos](http://www.ustream.tv/craft)
+
+* [Punishment Driven Development with Louise Elliott](http://www.hanselminutes.com/526/punishment-driven-development-with-louise-elliott)
