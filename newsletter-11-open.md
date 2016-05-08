@@ -19,6 +19,8 @@
 
 * [Pair Programming Is Still Vibrant](http://cacm.acm.org/news/201181-pair-programming-is-still-vibrant/fulltext)
 
+* [This one simple change for better class naming will blow your mind](https://www.novoda.com/blog/better-class-naming/)
+
 ### videos and podcasts
 
 * [SOLID Deconstruction](https://vimeo.com/157708450?ref=tw-share)
