@@ -19,6 +19,8 @@
 
 * [Pair Programming Is Still Vibrant](http://cacm.acm.org/news/201181-pair-programming-is-still-vibrant/fulltext)
 
+* [This one simple change for better class naming will blow your mind](https://www.novoda.com/blog/better-class-naming/)
+
 ### videos and podcasts
 
 * [SOLID Deconstruction](https://vimeo.com/157708450?ref=tw-share)
@@ -31,4 +33,4 @@
 
 * [BDD is like Jazz](https://skillsmatter.com/skillscasts/7361-keynote-kind-of-green#video)
 
-* [Punishment Driven Development with Louise Elliott](http://www.hanselminutes.com/526/punishment-driven-development-with-louise-elliott)
+* [Punishment Driven Development with Louise Elliott - podcast](http://www.hanselminutes.com/526/punishment-driven-development-with-louise-elliott)
