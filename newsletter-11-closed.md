@@ -1,5 +1,5 @@
 # Newsletter 11
-[Closed] To be published
+[Closed] To be published - No more PR will be accepted.
 
 ### articles
 
