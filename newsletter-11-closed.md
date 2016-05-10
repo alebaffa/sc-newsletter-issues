@@ -1,5 +1,5 @@
 # Newsletter 11
-[Open]
+[Closed] To be published
 
 ### articles
 
