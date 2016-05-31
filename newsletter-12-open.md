@@ -1,5 +1,5 @@
 # Newsletter 12
-[Open]
+[Published] on Tue, May 31, 2016
 
 ### articles
 
