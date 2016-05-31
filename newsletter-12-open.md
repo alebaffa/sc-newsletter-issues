@@ -8,11 +8,13 @@
 * [What we learned from Google: code reviews aren’t just for catching bugs](http://blog.fullstory.com/2016/04/code-reviews-arent-just-for-catching-bugs/)
 * [Refactoring a javascript video store](http://martinfowler.com/articles/refactoring-video-store-js/)
 * [Experimenting with mob programming to rebuild the GOV.UK Verify frontend](https://identityassurance.blog.gov.uk/2016/02/26/experimenting-with-mob-programming-to-rebuild-the-gov-uk-verify-frontend/)
+* [Bootcamps vs. College](http://blog.triplebyte.com/bootcamps-vs-college)
+* [Iterative Divide & Conquer or How to Solve Problems](http://www.tddfellow.com/blog/2016/05/27/iterative-divide-and-conquer-or-how-to-solve-problems/)
 
 ### videos and podcasts
 
 * [The Future Of Programming](https://www.agilealliance.org/resources/videos/the-future-of-software/)
-
+* [The Return of the Waterfall](https://www.youtube.com/watch?v=w4IncnNVzMA)
 
 ### blast-from-the-past
 
