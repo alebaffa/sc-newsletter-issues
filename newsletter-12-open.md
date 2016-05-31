@@ -15,6 +15,7 @@
 
 * [The Future Of Programming](https://www.agilealliance.org/resources/videos/the-future-of-software/)
 * [The Return of the Waterfall](https://www.youtube.com/watch?v=w4IncnNVzMA)
+* [10 Things You Need to Know about BDD, SpecFlow and Cucumber](https://www.infoq.com/presentations/bdd-specflow-cucumber)
 
 ### blast-from-the-past
 
